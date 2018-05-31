@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:1-50:12
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:1-50:12
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:1-50:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\9a01fff5e9b8d126e4f2645c4a413953\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\004d792df5e6e30871d59fd359f2ecb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\8996f097aae52583979732bbfdde7c80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04ee07ec0a279b45d64664653812a1a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\24eae22a56a22c53a347bd04139d9d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce7e0d0eaefe72ebbb4d18a3e9f18c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c3d6ed2a624dac5799f9268ab796e026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\78f3a2495e0a883dcd90296d53cddb9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c84e9fac014819e5f357c361f796663\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\748fec7c462c58af9d6b99b26e6706e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\05dbe89391fd334a345f46d0dd73c998\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b97895ab3b53b55abea9ea5c005bed44\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:1-50:12
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:34:22-71
+application
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:36:5-48:19
+	android:label
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:36:18-50
+	android:icon
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:38:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:39:9-45:20
+	android:label
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:39:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:46:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:47:9-77
+	android:enabled
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:47:53-75
+	android:name
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml:47:18-52
+uses-sdk
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\9a01fff5e9b8d126e4f2645c4a413953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\9a01fff5e9b8d126e4f2645c4a413953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\004d792df5e6e30871d59fd359f2ecb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\004d792df5e6e30871d59fd359f2ecb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\8996f097aae52583979732bbfdde7c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\8996f097aae52583979732bbfdde7c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04ee07ec0a279b45d64664653812a1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04ee07ec0a279b45d64664653812a1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\24eae22a56a22c53a347bd04139d9d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\24eae22a56a22c53a347bd04139d9d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce7e0d0eaefe72ebbb4d18a3e9f18c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce7e0d0eaefe72ebbb4d18a3e9f18c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c3d6ed2a624dac5799f9268ab796e026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c3d6ed2a624dac5799f9268ab796e026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\78f3a2495e0a883dcd90296d53cddb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\78f3a2495e0a883dcd90296d53cddb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c84e9fac014819e5f357c361f796663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c84e9fac014819e5f357c361f796663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\748fec7c462c58af9d6b99b26e6706e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\748fec7c462c58af9d6b99b26e6706e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\05dbe89391fd334a345f46d0dd73c998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\05dbe89391fd334a345f46d0dd73c998\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b97895ab3b53b55abea9ea5c005bed44\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ChoiSeongYoon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b97895ab3b53b55abea9ea5c005bed44\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ChoiSeongYoon\Desktop\BluetoothHeartRate\Application\src\main\AndroidManifest.xml
